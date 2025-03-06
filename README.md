@@ -7,6 +7,14 @@ This project analyzes coffee order data and presents insights using an interacti
 
 ## Repository Structure
 
+📂 CoffeeOrdersAnalysis/
+├── 📂 dataset/
+│   ├── coffeeOrdersData.xlsx  # Raw data file
+├── coffeeOrdersProject.xlsx  # Excel file with dashboard & transformations
+├── README.md  # Project documentation
+├── screen1.png  # Dashboard screenshot
+├── screen2.png  # Dashboard screenshot
+├── screen3.png  # Dashboard screenshot
 
 
 ## Data
@@ -26,6 +34,11 @@ This project analyzes coffee order data and presents insights using an interacti
 ## Dashboard Screenshots
 Below are sample visuals from the Excel dashboard:
 
+![#1 Screenshot](screen1.png)
+
+![#2 Screenshot](screen2.png)
+
+![#3 Screenshot](screen3.png)
 
 ## Tools Used
 - **Microsoft Excel** – Data storage, transformations, and dashboard visualization.
