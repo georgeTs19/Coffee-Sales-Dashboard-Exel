@@ -6,12 +6,11 @@
 This project analyzes coffee order data and presents insights using an interactive **Excel dashboard**. All **data transformations and visualizations** are included within the project file. The dashboard provides an easy way to explore **key trends, customer insights, and product performance**.
 
 ## Repository Structure
-📂 CoffeeOrdersAnalysis/ ├── 📂 data/ │ ├── coffeeOrdersData.xlsx # Original raw data ├── 📂 project/ │ ├── coffeeOrdersProject.xlsx # Processed data with transformations and built-in dashboard │ ├── dashboard_screenshots/ # Folder containing images of the dashboard ├── README.md # Project overview and instructions └── .gitignore # Ignore unnecessary files (e.g., temporary files)
 
 
 
-## Dataset
-- **coffeeOrdersData.xlsx** – Raw data containing orders, customers, and product information.
+## Data
+- **dataset/coffeeOrdersData.xlsx** – Raw data containing orders, customers, and product information.
 - **coffeeOrdersProject.xlsx** – Processed data with transformations and a built-in dashboard.
 
 ## Insights from the Dashboard
